@@ -1,0 +1,52 @@
+/* Styles for Navbar */
+.navbar {
+    background-color: #f8f9fa; /* Light gray background */
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    color: #343a40; /* Dark text color */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #343a40; /* Dark text color */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #007bff; /* Blue color on hover */
+  }
+  
+  /* Styles for Form */
+  .container {
+    margin-top: 50px; /* Add some space at the top */
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Styles for Submit Button */
+  .btn-primary {
+    background-color: #007bff; /* Blue background */
+    border-color: #007bff; /* Blue border */
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    border-color: #0056b3; /* Darker blue border on hover */
+  }
+  
+  /* Styles for Notes Section */
+  .container:nth-of-type(2) {
+    margin-top: 30px; /* Add space between the forms and notes */
+  }
+  
+  h2 {
+    margin-bottom: 20px; /* Add space below the header */
+  }
+  
+  /* Styles for Note Items */
+  li {
+    margin-bottom: 10px; /* Add space between note items */
+  }
+  
